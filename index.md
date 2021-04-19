@@ -1,7 +1,7 @@
 ![TeamJumpstart](images\TeamJumpstart.png)
 
 We are Computer Science students from RWTH Aachen, interested in Machine Learning and Data Science. 
-This team was founded during the [InformatiCup2021](https://github.com/informatiCup/InformatiCup2021) challenge, to develop an artificial agent, capable of playing the game of [spe_ed] (https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) against other teams.
+This team was founded during the [InformatiCup2021](https://github.com/informatiCup/InformatiCup2021) challenge, to develop an artificial agent, capable of playing the game of [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) against other teams.
 
 <center>
     <figure class="image">
