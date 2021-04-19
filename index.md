@@ -27,4 +27,4 @@ We like to play a round of Magic the Gathering, some old fashioned board games o
 In addition to those nerdy activities, we also really enjoy watching random movies from famed masterpieces to complete trash.
 
 ## Projects
-* [InformatiCup2021](https://github.com/TeamJumpstart/InformatiCup2021)
+* InformatiCup2021: [Repository](https://github.com/TeamJumpstart/InformatiCup2021), [Project Page](https://teamjumpstart.github.io/InformatiCup2021/)
