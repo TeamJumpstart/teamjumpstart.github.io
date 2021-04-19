@@ -3,22 +3,22 @@
 We are Computer Science students from RWTH Aachen, interested in Machine Learning and Data Science. 
 This team was founded during the [InformatiCup2021](https://github.com/informatiCup/InformatiCup2021) challenge, to develop an artificial agent, capable of playing the game of [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) against other teams.
 
-<center>
-    <figure class="image" style="float: left; width: 30%;">
+<div style="text-align: center;">
+    <figure class="image" style="width: 30%; display: inline-block; margin-right: 10px;">
         <img src="images\Team_Jumpstart_RWTH_Gregor_Kobsik.jpg" alt="Gregor" />
-        <figcaption>Gregor Kobsik, B.Sc.</figcaption>
+        <figcaption>Gregor Kobsik B. Sc.</figcaption>
     </figure>
     
-    <figure class="image" style="float: left; width: 30%;">
+    <figure class="image" style="width: 30%; display: inline-block; margin-right: 10px;">
         <img src="images\Team_Jumpstart_RWTH_Robin_Kupper.jpg" alt="Robin" />
-        <figcaption>Robin Kupper, B.Sc.</figcaption>
+        <figcaption>Robin Kupper B. Sc.</figcaption>
     </figure>
     
-    <figure class="image" style="float: left; width: 30%;">
+    <figure class="image" style="width: 30%; display: inline-block;">
         <img src="images\Team_Jumpstart_RWTH_Manuel_Pozor.jpg" alt="Manuel" />
-        <figcaption>Manuel Pozor, B.Sc.</figcaption>
+        <figcaption>Manuel Pozor B. Sc.</figcaption>
     </figure>   
-</center>
+</div>
 
 We know each other from the very beginning of the first Computer Science semester in Aachen. 
 Throughout our whole study, we attended similar courses and supported each other in the examination periods. 
