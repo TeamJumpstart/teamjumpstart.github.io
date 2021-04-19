@@ -4,18 +4,18 @@ We are Computer Science students from RWTH Aachen, interested in Machine Learnin
 This team was founded during the [InformatiCup2021](https://github.com/informatiCup/InformatiCup2021) challenge, to develop an artificial agent, capable of playing the game of [spe_ed](https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) against other teams.
 
 <center>
-    <figure class="image" style="float: left;">
-        <img src="images\Team_Jumpstart_RWTH_Gregor_Kobsik.jpg" alt="Gregor" width="30%"/>
+    <figure class="image" style="float: left; width: 30%;">
+        <img src="images\Team_Jumpstart_RWTH_Gregor_Kobsik.jpg" alt="Gregor" />
         <figcaption>Gregor Kobsik, B.Sc.</figcaption>
     </figure>
     
-    <figure class="image" style="float: left;">
-        <img src="images\Team_Jumpstart_RWTH_Robin_Kupper.jpg" alt="Robin" width="30%"/>
+    <figure class="image" style="float: left; width: 30%;">
+        <img src="images\Team_Jumpstart_RWTH_Robin_Kupper.jpg" alt="Robin" />
         <figcaption>Robin Kupper, B.Sc.</figcaption>
     </figure>
     
-    <figure class="image" style="float: left;">
-        <img src="images\Team_Jumpstart_RWTH_Manuel_Pozor.jpg" alt="Manuel" width="30%"/>
+    <figure class="image" style="float: left; width: 30%;">
+        <img src="images\Team_Jumpstart_RWTH_Manuel_Pozor.jpg" alt="Manuel" />
         <figcaption>Manuel Pozor, B.Sc.</figcaption>
     </figure>   
 </center>
