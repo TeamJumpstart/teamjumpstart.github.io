@@ -1,6 +1,7 @@
 ![TeamJumpstart](images\TeamJumpstart.png)
 
-We are computer science students from RWTH Aachen, interessted in Machine Learning and Data Science. This Team was founded durring the [InformatiCup2021](https://github.com/informatiCup/InformatiCup2021) challange, to develope an artificial agent, which is capable of playing the game of spe_ed.
+We are Computer Science students from RWTH Aachen, interested in Machine Learning and Data Science. 
+This team was founded during the [InformatiCup2021](https://github.com/informatiCup/InformatiCup2021) challenge, to develop an artificial agent, capable of playing the game of [spe_ed] (https://github.com/InformatiCup/InformatiCup2021/blob/master/spe_ed.pdf) against other teams.
 
 <center>
     <img src="images\Team_Jumpstart_RWTH_Gregor_Kobsik.jpg" alt="Gregor" width="30%"/> Gregor Kobsik &nbsp;&nbsp;&nbsp;
@@ -8,4 +9,8 @@ We are computer science students from RWTH Aachen, interessted in Machine Learni
     <img src="images\Team_Jumpstart_RWTH_Manuel_Pozor.jpg" alt="Manuel" width="30%"/> Manuel Pozor
 </center>
 
-We know each other from the very beginning of the first computer science semester in Aachen. Throughout, our whole study we attended almost the same courses and supported each other in the examination periods. Besides technical interesst, we often play together a round of Magic the Gathering or watch random movies to kill boredom and broaden our horizon in different directions. Besides the obvious passion for computers and video games, we preferr from time to time to play some old fashioned board games or a round of Dungeons and Dragons.
+We know each other from the very beginning of the first Computer Science semester in Aachen. 
+Throughout our whole study, we attended similar courses and supported each other in the examination periods. 
+Besides our obvious interest in Machine Learning, we share a passion for computers and video games. 
+We like to play a round of Magic the Gathering, some old fashioned board games or a round of Dungeons and Dragons.
+In addition to those nerdy activities, we also really enjoy watching random movies from famed masterpieces to complete trash.
