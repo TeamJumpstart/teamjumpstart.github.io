@@ -25,3 +25,6 @@ Throughout our whole study, we attended similar courses and supported each other
 Besides our obvious interest in Machine Learning, we share a passion for computers and video games. 
 We like to play a round of Magic the Gathering, some old fashioned board games or a round of Dungeons and Dragons.
 In addition to those nerdy activities, we also really enjoy watching random movies from famed masterpieces to complete trash.
+
+## Projects
+* [InformatiCup2021](https://github.com/TeamJumpstart/InformatiCup2021)
